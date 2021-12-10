@@ -1,0 +1,428 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color:white
+}
+body{
+    margin: 0px;
+}
+.header1{
+height: 100%;
+width: 30%;
+float: left;
+
+}
+.header2{
+    height: 100%;
+    width: 70%;
+    float: left;
+}
+.dunkinlogo{
+
+    width: 207px;
+    height: 38px;
+    padding-left: 116px;
+    padding-top: 33px;
+    cursor: pointer;
+}
+.btn1{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-left: 94px;
+}
+.btn2{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-left: 35px;
+}
+.btn3{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-left: 35px;
+}
+.btn4{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-left: 35px;
+}
+.btn5{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-left: 35px;
+
+}
+.btn6{
+    background-color: #f26829;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-bottom: 33px;
+    margin-top: 32px;
+    color: white;
+    margin-left: 40px;
+    width: 200px;
+    border-radius: 6px;
+
+}
+.image2{
+    width: 100%;
+    height: 632px;
+}
+.image3{
+    width: 1349px;
+}
+.space1{
+    width: 100%;
+    height: 50px;
+}
+.space2{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.image4{
+    height: 18px;
+}
+.btn7{
+    background-color: #e4288f;
+    color: white;
+    font-family: font1;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    width: 200px;
+}
+.Ranges{
+
+    width: 100%;
+    height: 92px;
+    justify-content: center;
+    display: flex;
+    margin-left: 41px;
+}
+
+.Asset{
+    width: 85px;
+    height: 85px;
+    margin-right: 180px;
+}
+.Asset2{
+    width: 85px;
+    height: 89.75px;
+    margin-right: 185px;
+}
+.Asset3{
+    width: 85px;
+    height: 82px;
+    margin-right: 176px;
+}
+.Asset4{
+    width: 85px;
+    height: 79px;
+    margin-right: 100px;
+}
+.space3{
+    width: 100%;
+    height: 60px;
+}
+.Text{
+ justify-content: center;
+ height: 100px;
+}
+.asset{
+        margin-right: 86px;
+        font-family: cursive;
+        font-size: 18px;
+    
+}
+.asset2{
+        margin-right: 99px;
+font-family: cursive;
+font-size: 18px;
+}
+.asset3{
+    margin-right: 77px;
+    font-family: cursive;
+    font-size: 18px;
+}
+.asset4{
+    font-family: cursive;
+    font-size: 18px;
+        margin-right: -72px;
+    
+}
+.image5{
+width: 100%;
+height: 531.25px;
+
+}
+.image5a{
+    width: 674.5px;
+    height: 100%;
+}
+.image5b{
+    width: 674.5px;
+    height: 100%;
+}
+.Fullmenu{
+    height: 1200px;
+    width: 100%;
+    background-image: url(https://assets.limetray.com/assets/image_manager/uploads/7733/4353464645.jpg);
+}
+.space4{
+
+    width: 100%;
+    height: 100px;
+}
+.Discover{
+
+    height: 65px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.Discover1{
+font-size: 44px;
+font-family: cursive;
+margin-top: 0px;
+
+}
+.Options{
+    width: 100%;
+    height: 452px;
+}
+.Option1{
+
+    width: 411.2px;
+    height: 100%;
+    float: left;
+    border-radius: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.Option2{
+
+    width: 411.2px;
+    height: 100%;
+    float: left;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+.Option3{
+
+    width: 411.2px;
+    height: 100%;
+    float: left;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.space9{
+    width: 100%;
+    height: 10px;
+}
+.Option1A{
+
+    width: 100%;
+    height: 283px;
+    background-color: white;
+}
+.Option1B{
+
+    width: 100%;
+    height: 67px;
+    background-color: white;
+    justify-content: space-evenly;
+}
+.Option1C{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    margin-top: -17px;
+}
+.image1A{
+    width: 368.2px;
+    height: 282.89px;
+}
+.Best{
+
+    font-size: 18px;
+    font-family: font2;
+        padding-right: 42px;
+        font-family: cursive;
+
+}
+.btn8{
+
+    width: 141.72px;
+    height: 34px;
+    background-color: #f36e31;
+    color: white;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-right: 23px;
+    font-family: cursive;
+        margin-left: 15px;
+        cursor: pointer;
+    }
+
+.OptionCA{
+
+    font-size: 17px;
+    font-family: cursive;
+    padding-left: 18px;
+    
+}
+.Best1{
+    font-size: 17px;
+    font-family: cursive;
+    padding-right: 99px;
+
+}
+.Best2{
+
+    font-size: 17px;
+    font-family: cursive;
+    padding-right: 14px;
+}
+.Best3{
+
+    font-size: 17px;
+    font-family: cursive;
+    padding-right: 17px;
+}
+.Best4{
+    font-size: 17px;
+    font-family: cursive;
+    padding-right: 71px;
+}
+.footer{
+    width: 100%;
+    height: 254px;
+    background-color: #653602;
+    color: white;
+}
+.space78{
+    height: 100%;
+    width: 40px;
+    float: left;
+}
+.Quicklinks{
+
+    width: 315px;
+    height: 100%;
+    float: left;
+    font-family: cursive;
+    font-size: small;
+}
+.one{
+    padding-left: 37px;
+    font-size: 17px;
+}
+.Locations{
+
+    width: 561px;
+    height: 100%;
+    float: left;
+    font-family: cursive;
+    font-size: smaller;
+}
+.text1{
+
+    width: 390px;
+    height: 40px;
+    color: #653602;
+    font-family: cursive;
+    font-size: 17px;
+}
+.two{
+
+    font-family: cursive;
+    font-family: 17px;
+    font-size: medium;
+    padding-left: 40px;
+
+}
+.social{
+    height: 100%;
+    width: 400px;
+    float: left;
+
+
+}
+.fb{
+width: 35px;
+height: 35px;
+}
+.insta{
+width: 30px;
+height: 30px;
+margin-left: 26px;
+}
+.socialname{
+    font-size: 17px;
+    padding-left: 38px;
+    font-family: cursive;
+
+}
+.playstore{
+
+width: 100px;
+height: 33px;
+cursor: pointer;
+}
+.apple{
+    width: 100px;
+    height: 33px;
+    cursor: pointer;
+
+}
+.feedback{
+
+    width: 215px;
+    height: 34px;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 17px;
+}
+.leave{
+    margin: 0px;
+}
+.customer{
+    font-family: cursive;
+}
